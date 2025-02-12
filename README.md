@@ -1,3 +1,6 @@
+![68747470733a2f2f736f667465782e62722f77702d636f6e74656e742f75706c6f6164732f323032342f30392f456d6261726361546563685f6c6f676f5f417a756c2d31303330783432382e706e67](https://github.com/user-attachments/assets/efd58ef1-331a-4978-bb80-52925d9d4b1b)
+
+
 **Controle de Servomotor com PWM no Raspberry Pi Pico** 🎛️🔧
 
 Este código controla um servomotor usando um sinal PWM gerado pelo Raspberry Pi Pico. 🏎️⚡
