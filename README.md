@@ -2,7 +2,7 @@
 
 Este código controla um servomotor usando um sinal PWM gerado pelo Raspberry Pi Pico. 🏎️⚡
 
-📌 Principais Funcionalidades:
+📌 __Principais Funcionalidades__:
 
 ✅ Configura o pino GPIO 22 para gerar PWM a 50Hz (frequência padrão para servomotores).
 
