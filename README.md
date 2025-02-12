@@ -13,7 +13,8 @@ Este código controla um servomotor usando um sinal PWM gerado pelo Raspberry Pi
 ✅ Repete o movimento em um loop infinito com pequenas pausas.
 
 
-🔄 Fluxo do Programa:
+
+🔄 __Fluxo do Programa:__
 
 1️⃣ Configura o PWM no pino 22.
 
