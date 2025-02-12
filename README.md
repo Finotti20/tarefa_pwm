@@ -27,5 +27,5 @@ Este código controla um servomotor usando um sinal PWM gerado pelo Raspberry Pi
 
 4️⃣ Mantém esse movimento em repetição contínua.
 
-*Segue link de vídeo explicativo:*
+**Segue link de vídeo explicativo:**
 https://www.youtube.com/watch?v=QDMv6ClFC_I
